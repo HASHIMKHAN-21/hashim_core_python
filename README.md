@@ -1,0 +1,4 @@
+During my Data Science Internship at CodSoft, I worked on practical machine learning and data analysis projects that helped me strengthen my Python and analytical skills.
+I developed a Titanic Survival Prediction model based on the historical dataset related to the RMS Titanic sinking, where I performed data cleaning, exploratory data analysis, and built a classification model to predict passenger survival. 
+I also created an IMDb Movie Rating Prediction project using movie data from IMDb, where I analyzed various features and implemented a machine learning model to estimate movie ratings. 
+Through these projects, I gained hands-on experience in data preprocessing, feature engineering, model building, and data visualization, which enhanced my understanding of real-world data science workflows.
